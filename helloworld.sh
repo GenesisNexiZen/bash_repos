@@ -1,3 +1,3 @@
 #!/bin/bash
 
-/This is a text
+echo "This is just a hello world  code"
