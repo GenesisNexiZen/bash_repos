@@ -24,3 +24,12 @@ $ if [[ $name = $USER ]];         #thenThe "if" block started but wasn't finishe
 > fi                              #Now the "if" block ends and bash knows enough to start the command.
 Hello, Maarten Billemont.
 
+
+
+
+
+
+
+The basic grammer of a bash command.
+
+[ var=value ... ] name [ arg ... ] [ redirection ... ]
